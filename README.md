@@ -6,7 +6,7 @@
 
 - 🌱 I am consistently exploring and mastering new technologies. **ReactJs, Nodejs**
 
-- 👨‍💻 All of my projects are available at [https://github.com/leonard-ibeh](https://github.com/leonard-ibeh)
+- 👨‍💻 You can access my compilation of projects at [https://github.com/leonard-ibeh](https://github.com/leonard-ibeh)
 
 - 📫 How to reach me **mrleonardibeh@gmail.com**
 
